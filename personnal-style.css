@@ -1,1 +1,10 @@
-/* No CSS *//*# sourceMappingURL=personnal-style.css.map */
+.puce {
+  width: 5px;
+  height: 3px;
+  border-radius: 25px;
+}
+
+.main-container:nth-child(1n) {
+  margin: 10% 10%;
+}
+/*# sourceMappingURL=personnal-style.css.map */
